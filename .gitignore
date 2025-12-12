@@ -3,3 +3,4 @@
 .env
 .log
 data/processed/symmetric_processed_not_encoded.csv
+results/*.pkl
