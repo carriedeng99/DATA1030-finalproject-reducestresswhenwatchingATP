@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints
+.env
+.log
+data/processed/symmetric_processed_not_encoded.csv
